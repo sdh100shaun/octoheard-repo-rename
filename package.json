@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@octokit/rest": "^19.0.7",
+    "create-octoherd-script": "^1.7.4"
+  },
+  "devDependencies": {
+    "@octoherd/cli": "^3.6.2"
+  },
+  "type": "module"
+}
