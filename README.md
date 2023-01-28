@@ -13,13 +13,13 @@ Note: Your GitHub account must have owner or admin permission in order to rename
 Minimal usage
 
 ```js
-npx @sdh100shaun/script-octoherd-repo-rename
+npx sdh100shaun/script-octoherd-repo-rename
 ```
 
 Pass all options as CLI flags to avoid user prompts
 
 ```js
-npx @sdh100shaun/script-octoherd-repo-rename \
+npx sdh100shaun/script-octoherd-repo-rename \
   -T ghp_0123456789abcdefghjklwxyzA \
   -R "sdh100shaun/*"
   --find 'old-repo-name'
