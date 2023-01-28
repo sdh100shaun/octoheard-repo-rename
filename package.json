@@ -6,5 +6,26 @@
   "devDependencies": {
     "@octoherd/cli": "^3.6.2"
   },
-  "type": "module"
+  "type": "module",
+  "name": "octaherd-rename-repos",
+  "description": "a octoherd script for renaming repos ",
+  "version": "1.0.0",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdh100shaun/octoheard-repo-rename.git"
+  },
+  "keywords": [
+    "octoherd",
+    "github"
+  ],
+  "author": "Shaun Hare - shaun@shaunhare.co.uk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sdh100shaun/octoheard-repo-rename/issues"
+  },
+  "homepage": "https://github.com/sdh100shaun/octoheard-repo-rename#readme"
 }
