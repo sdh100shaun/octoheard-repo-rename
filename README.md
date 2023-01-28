@@ -13,7 +13,7 @@ Note: Your GitHub account must have owner or admin permission in order to rename
 Minimal usage
 
 ```js
-npx @sdh100shaun/script-rename-master-branch-to-main
+npx @sdh100shaun/script-octoherd-repo-rename
 ```
 
 Pass all options as CLI flags to avoid user prompts
