@@ -6,8 +6,8 @@
   "type": "module",
   "name": "@sdh100shaun/octaherd-rename-repos",
   "description": "a octoherd script for renaming repos ",
-  "version": "1.0.2",
-  "main": "cli.js",
+  "version": "1.0.3",
+  "main": "./cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
